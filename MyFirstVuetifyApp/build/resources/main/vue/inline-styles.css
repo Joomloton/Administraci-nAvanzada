@@ -1,0 +1,10 @@
+table th {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: left;
+    background-color: #607D8B;
+    color: white !important;
+  }
+  table tr:nth-child(even) {background-color: #ECEFF1;}
+  table tr:hover {background-color: #CFD8DC !important;}
+  table td, table th { border: 1px solid #ddd; padding: 8px;}
